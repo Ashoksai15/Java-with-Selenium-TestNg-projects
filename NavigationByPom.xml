@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<!DOCTYPE suite SYSTEM "http://testng.org/testng-1.0.dtd">
+<suite name="Priority" >
+    <test name="Priority">
+        <!--        Test name can be used from JIRA/Zephyr-->
+        <classes>
+            <class name="AshokSai.TestNg.NavigationByPom"></class>
+        </classes>
+    </test>
+</suite>
